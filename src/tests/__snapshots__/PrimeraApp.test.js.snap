@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente PrimeraApp.js se debe mostrar <PrimeraApp /> correctamente 1`] = `
+<Fragment>
+  <h1>
+    Hola mundo
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas en el componente PrimeraApp.js se debe mostrar el subtitulo enviado en props 1`] = `
+<Fragment>
+  <h1>
+    Hola mundo
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;
